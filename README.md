@@ -1,5 +1,7 @@
 # @anikghosh256/reactive-state
 
+[![Build and Test](https://github.com/anikghosh256/reactive-state/actions/workflows/node.js.yml/badge.svg)]() [![NPM version](https://img.shields.io/npm/v/@anikghosh256/reactive-state.svg)](https://www.npmjs.com/package/@anikghosh256/reactive-state) ![NPM](https://img.shields.io/npm/l/@anikghosh256/reactive-state)
+
 A lightweight, reactive state management library with deep reactivity using `Proxy`. It is ideal for managing application state with automatic updates to subscribed listeners, making it easy to build reactive applications.
 
 ## Features
