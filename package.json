@@ -1,0 +1,26 @@
+{
+  "name": "@anikghosh256/reactive-state",
+  "version": "1.0.0",
+  "description": "A lightweight reactive state management library with deep reactivity using Proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anikghosh256/reactive-state.git"
+  },
+  "keywords": [
+    "reactive-state"
+  ],
+  "type": "module",
+  "author": "Anik Ghosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anikghosh256/reactive-state/issues"
+  },
+  "homepage": "https://github.com/anikghosh256/reactive-state#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
